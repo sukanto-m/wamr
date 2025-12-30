@@ -273,7 +273,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 🙏 Acknowledgments
 
 - Inspired by [witr](https://github.com/pranshuparmar/witr)
-- Built with [Ollama](https://ollama.ai)
+- Built with [Ollama](https://ollama.ai) and assistance from Claude AI
 - Powered by local LLMs
 
 ---
